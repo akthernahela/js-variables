@@ -12,7 +12,7 @@ console.log(cityIndex); // Output: 4
 // 2. Sottostringhe 
 // Stampa la sottostringa "York" dalla variabile city
 const citySubstring = city.substring(4,8);
-/*Count also the space between New and Yourk*/
+/*Count also the space between New and York*/
 /*number start from 0
  ---> 'N'0, 'E'1, 'W'2, 'spazio'3, 'Y'4, 'O'5, 'R'6, 'K'7*/
 /*8 because 'K' is the last letter and it's on index 7, 
