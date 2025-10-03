@@ -10,7 +10,7 @@ console.log(myName);
 // Stampa tutti i valori nella console.
 const number = 23;
 const text = 'Hello everyone';
-const bool = 'false';
+const bool = false;
 console.log(number, text, bool);
 
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
